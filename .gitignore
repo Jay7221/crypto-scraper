@@ -1,0 +1,200 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.sqlite
+*.pdb
+
+# If you are using a SQLite3 database, ignore the database file
+db.sqlite3
+
+# Ignore the "secret" key settings file
+*.env
+.env
+
+# Ignore Django migrations folder
+*/migrations/*
+
+# Ignore virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignore settings and local settings
+settings_local.py
+
+# Node.js related
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# macOS related
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows related
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Ignore backup files from editors
+*~
+*.swp
+*.swo
+.*.swp
+.*.swo
+
+# PyCharm related
+.idea/
+
+# Visual Studio Code related
+.vscode/
+
+# JetBrains related
+*.iml
+.idea/
+.idea/*
+!.idea/misc.xml
+!.idea/modules.xml
+!.idea/*.iml
+!.idea/*.name
+!.idea/vcs.xml
+!.idea/workspace.xml
+!.idea/tasks.xml
+!.idea/libraries
+*.iws
+*.ipr
+*.clj.kp
+*.dir-locals.el
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+*.pot
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# External libraries
+lib/
+local/
+docs/_build/
+
+# Python specific
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.tox/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Bandit
+.bandit
+
+# Sphinx
+docs/_build/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# System files
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.prof
+*.pid
+*.gz
+*.dll
+*.dylib
+*.jar
+*.exe
+*.msi
+*.psd
+*.db
+
+# Archive files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.tar
+*.bz2
+*.xz
+*.zip
+*.tgz
+*.bz2
+
+# Temporary files
+*.temp
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+*.class
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# JetBrains IDEs
+.idea/
+
+# Ignore compiled code
+*.o
+*.py[cod]
+*.so
+
+# Yarn integrity file
+.yarn-integrity
+
+# dotenv
+.env.local
+.env.production
+.env.test
+
+# Specific folders
+local_settings.py
+debug.log
+*.DS_Store
+media/
+
+# Ignore any .env files
+*.env
+.env
+
+# Ignore any secret settings file
+local_settings.py
+
